@@ -1,0 +1,6 @@
+a = float(input())
+b = float(input())
+c = float(input())
+d = float(input())
+m, b = ecuacion_recta((a,b),(c,d))
+print("y="+str(round(m,2))+"x+"+str(round(b,2)))
