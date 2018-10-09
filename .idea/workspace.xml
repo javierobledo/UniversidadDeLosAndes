@@ -2,18 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9ea09561-3b18-443d-ac04-f9f3fd6e7cd7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/2018/S2/M4/L1/v4/codigo/p2-base.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2018/S2/M4/L1/v4/p2/input/input0.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2018/S2/M4/L1/v4/p2/input/input1.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2018/S2/M4/L1/v4/p2/input/input2.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2018/S2/M4/L1/v4/p2/input/input3.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2018/S2/M4/L1/v4/p2/input/input4.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2018/S2/M4/L1/v4/p2/output/output0.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2018/S2/M4/L1/v4/p2/output/output1.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2018/S2/M4/L1/v4/p2/output/output2.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2018/S2/M4/L1/v4/p2/output/output3.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2018/S2/M4/L1/v4/p2/output/output4.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2018/S2/M4/L1/v4/p2/p2-sol.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2018/S2/M4/EX/v7/p1/exm4p1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2018/S2/M4/EX/v7/p2/exm4p2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2018/S2/M4/EX/v7/p3/exm4p3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/UniversidadDeLosAndes.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/UniversidadDeLosAndes.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -26,7 +19,9 @@
     <SUITE FILE_PATH="coverage/UniversidadDeLosAndes$ex1m4v6.coverage" NAME="ex1m4v6 Coverage Results" MODIFIED="1537619481076" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2018/S2/M4/EX" />
     <SUITE FILE_PATH="coverage/UniversidadDeLosAndes$p1_sol.coverage" NAME="p1-sol Coverage Results" MODIFIED="1538320089488" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2018/S2/M4/L1/v4/p1" />
     <SUITE FILE_PATH="coverage/UniversidadDeLosAndes$p2_sol.coverage" NAME="p2-sol Coverage Results" MODIFIED="1538398844908" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2018/S2/M4/L1/v4/p2" />
+    <SUITE FILE_PATH="coverage/UniversidadDeLosAndes$exm4p2.coverage" NAME="exm4p2 Coverage Results" MODIFIED="1539118702463" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2018/S2/M4/EX/v7/p2" />
     <SUITE FILE_PATH="coverage/UniversidadDeLosAndes$ex1m4v6p2.coverage" NAME="ex1m4v6p2 Coverage Results" MODIFIED="1537718305722" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2018/S2/M4/EX/p2" />
+    <SUITE FILE_PATH="coverage/UniversidadDeLosAndes$exm4p1.coverage" NAME="exm4p1 Coverage Results" MODIFIED="1539116403332" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2018/S2/M4/EX/v7/p1" />
     <SUITE FILE_PATH="coverage/UniversidadDeLosAndes$ex1m4v6p1.coverage" NAME="ex1m4v6p1 Coverage Results" MODIFIED="1537619586768" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2018/S2/M4/EX/p1" />
   </component>
   <component name="FUSProjectUsageTrigger">
@@ -66,44 +61,70 @@
     <session id="1973476694">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="9" />
+          <entry key="project.closed" value="11" />
+          <entry key="project.open.time.0" value="1" />
           <entry key="project.open.time.1" value="1" />
           <entry key="project.open.time.3" value="1" />
           <entry key="project.open.time.4" value="1" />
-          <entry key="project.open.time.6" value="3" />
+          <entry key="project.open.time.5" value="1" />
+          <entry key="project.open.time.6" value="4" />
           <entry key="project.open.time.7" value="3" />
           <entry key="project.open.time.8" value="1" />
-          <entry key="project.opened" value="10" />
+          <entry key="project.opened" value="13" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="py" value="859" />
-          <entry key="txt" value="83" />
+          <entry key="py" value="1273" />
+          <entry key="txt" value="88" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="PLAIN_TEXT" value="83" />
-          <entry key="Python" value="859" />
+          <entry key="PLAIN_TEXT" value="88" />
+          <entry key="Python" value="1273" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="py" value="9" />
+          <entry key="png" value="1" />
+          <entry key="py" value="14" />
           <entry key="txt" value="40" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
+          <entry key="Image" value="1" />
           <entry key="PLAIN_TEXT" value="40" />
-          <entry key="Python" value="9" />
+          <entry key="Python" value="14" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/2018/S2/M4/EX/v7/p1/exm4p1.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="391">
+              <caret line="23" column="16" selection-end-line="23" selection-end-column="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/2018/S2/M4/EX/v7/p2/exm4p2.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="450">
+              <caret line="30" column="23" selection-start-line="30" selection-start-column="23" selection-end-line="30" selection-end-column="23" />
+              <folding>
+                <element signature="e#0#19#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -151,6 +172,9 @@
         <option value="$PROJECT_DIR$/2018/S2/M4/L1/v4/p2/output/output2.txt" />
         <option value="$PROJECT_DIR$/2018/S2/M4/L1/v4/p2/output/output3.txt" />
         <option value="$PROJECT_DIR$/2018/S2/M4/L1/v4/p2/output/output4.txt" />
+        <option value="$PROJECT_DIR$/2018/S2/M4/EX/v7/p1/exm4p1.py" />
+        <option value="$PROJECT_DIR$/2018/S2/M4/EX/v7/p2/exm4p2.py" />
+        <option value="$PROJECT_DIR$/2018/S2/M4/EX/v7/p3/exm4p3.py" />
       </list>
     </option>
   </component>
@@ -161,8 +185,8 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="882" />
-    <option name="y" value="69" />
+    <option name="x" value="623" />
+    <option name="y" value="61" />
     <option name="width" value="941" />
     <option name="height" value="947" />
   </component>
@@ -220,7 +244,7 @@
               <item name="2018" type="462c0819:PsiDirectoryNode" />
               <item name="S2" type="462c0819:PsiDirectoryNode" />
               <item name="M4" type="462c0819:PsiDirectoryNode" />
-              <item name="L1" type="462c0819:PsiDirectoryNode" />
+              <item name="EX" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="UniversidadDeLosAndes" type="b2602c69:ProjectViewProjectNode" />
@@ -228,27 +252,7 @@
               <item name="2018" type="462c0819:PsiDirectoryNode" />
               <item name="S2" type="462c0819:PsiDirectoryNode" />
               <item name="M4" type="462c0819:PsiDirectoryNode" />
-              <item name="L1" type="462c0819:PsiDirectoryNode" />
-              <item name="v4" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="UniversidadDeLosAndes" type="b2602c69:ProjectViewProjectNode" />
-              <item name="UniversidadDeLosAndes" type="462c0819:PsiDirectoryNode" />
-              <item name="2018" type="462c0819:PsiDirectoryNode" />
-              <item name="S2" type="462c0819:PsiDirectoryNode" />
-              <item name="M4" type="462c0819:PsiDirectoryNode" />
-              <item name="L1" type="462c0819:PsiDirectoryNode" />
-              <item name="v4" type="462c0819:PsiDirectoryNode" />
-              <item name="codigo" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="UniversidadDeLosAndes" type="b2602c69:ProjectViewProjectNode" />
-              <item name="UniversidadDeLosAndes" type="462c0819:PsiDirectoryNode" />
-              <item name="2018" type="462c0819:PsiDirectoryNode" />
-              <item name="S2" type="462c0819:PsiDirectoryNode" />
-              <item name="M4" type="462c0819:PsiDirectoryNode" />
-              <item name="L1" type="462c0819:PsiDirectoryNode" />
-              <item name="v4" type="462c0819:PsiDirectoryNode" />
+              <item name="EX" type="462c0819:PsiDirectoryNode" />
               <item name="p1" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -257,10 +261,27 @@
               <item name="2018" type="462c0819:PsiDirectoryNode" />
               <item name="S2" type="462c0819:PsiDirectoryNode" />
               <item name="M4" type="462c0819:PsiDirectoryNode" />
-              <item name="L1" type="462c0819:PsiDirectoryNode" />
-              <item name="v4" type="462c0819:PsiDirectoryNode" />
+              <item name="EX" type="462c0819:PsiDirectoryNode" />
+              <item name="p2" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="UniversidadDeLosAndes" type="b2602c69:ProjectViewProjectNode" />
+              <item name="UniversidadDeLosAndes" type="462c0819:PsiDirectoryNode" />
+              <item name="2018" type="462c0819:PsiDirectoryNode" />
+              <item name="S2" type="462c0819:PsiDirectoryNode" />
+              <item name="M4" type="462c0819:PsiDirectoryNode" />
+              <item name="EX" type="462c0819:PsiDirectoryNode" />
+              <item name="v7" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="UniversidadDeLosAndes" type="b2602c69:ProjectViewProjectNode" />
+              <item name="UniversidadDeLosAndes" type="462c0819:PsiDirectoryNode" />
+              <item name="2018" type="462c0819:PsiDirectoryNode" />
+              <item name="S2" type="462c0819:PsiDirectoryNode" />
+              <item name="M4" type="462c0819:PsiDirectoryNode" />
+              <item name="EX" type="462c0819:PsiDirectoryNode" />
+              <item name="v7" type="462c0819:PsiDirectoryNode" />
               <item name="p1" type="462c0819:PsiDirectoryNode" />
-              <item name="input" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="UniversidadDeLosAndes" type="b2602c69:ProjectViewProjectNode" />
@@ -268,19 +289,8 @@
               <item name="2018" type="462c0819:PsiDirectoryNode" />
               <item name="S2" type="462c0819:PsiDirectoryNode" />
               <item name="M4" type="462c0819:PsiDirectoryNode" />
-              <item name="L1" type="462c0819:PsiDirectoryNode" />
-              <item name="v4" type="462c0819:PsiDirectoryNode" />
-              <item name="p1" type="462c0819:PsiDirectoryNode" />
-              <item name="output" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="UniversidadDeLosAndes" type="b2602c69:ProjectViewProjectNode" />
-              <item name="UniversidadDeLosAndes" type="462c0819:PsiDirectoryNode" />
-              <item name="2018" type="462c0819:PsiDirectoryNode" />
-              <item name="S2" type="462c0819:PsiDirectoryNode" />
-              <item name="M4" type="462c0819:PsiDirectoryNode" />
-              <item name="L1" type="462c0819:PsiDirectoryNode" />
-              <item name="v4" type="462c0819:PsiDirectoryNode" />
+              <item name="EX" type="462c0819:PsiDirectoryNode" />
+              <item name="v7" type="462c0819:PsiDirectoryNode" />
               <item name="p2" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -289,21 +299,9 @@
               <item name="2018" type="462c0819:PsiDirectoryNode" />
               <item name="S2" type="462c0819:PsiDirectoryNode" />
               <item name="M4" type="462c0819:PsiDirectoryNode" />
-              <item name="L1" type="462c0819:PsiDirectoryNode" />
-              <item name="v4" type="462c0819:PsiDirectoryNode" />
-              <item name="p2" type="462c0819:PsiDirectoryNode" />
-              <item name="input" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="UniversidadDeLosAndes" type="b2602c69:ProjectViewProjectNode" />
-              <item name="UniversidadDeLosAndes" type="462c0819:PsiDirectoryNode" />
-              <item name="2018" type="462c0819:PsiDirectoryNode" />
-              <item name="S2" type="462c0819:PsiDirectoryNode" />
-              <item name="M4" type="462c0819:PsiDirectoryNode" />
-              <item name="L1" type="462c0819:PsiDirectoryNode" />
-              <item name="v4" type="462c0819:PsiDirectoryNode" />
-              <item name="p2" type="462c0819:PsiDirectoryNode" />
-              <item name="output" type="462c0819:PsiDirectoryNode" />
+              <item name="EX" type="462c0819:PsiDirectoryNode" />
+              <item name="v7" type="462c0819:PsiDirectoryNode" />
+              <item name="p3" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -315,7 +313,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="add_unversioned_files" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/2018/S2/M4/EX/p3" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/2018/S2/M4/EX/v7/p2" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
@@ -337,51 +335,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.p2-sol">
-    <configuration name="ex1m4v6" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="UniversidadDeLosAndes" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2018/S2/M4/EX" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2018/S2/M4/EX/ex1m4v6.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="ex1m4v6p1" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="UniversidadDeLosAndes" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2018/S2/M4/EX/p1" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2018/S2/M4/EX/p1/ex1m4v6p1.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.exm4p2">
     <configuration name="ex1m4v6p2" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="UniversidadDeLosAndes" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -396,6 +350,50 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2018/S2/M4/EX/p2/ex1m4v6p2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="exm4p1" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="UniversidadDeLosAndes" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\Javier Robledo Leiva\AppData\Local\Programs\Python\Python37\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2018/S2/M4/EX/v7/p1" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2018/S2/M4/EX/v7/p1/exm4p1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="exm4p2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="UniversidadDeLosAndes" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\Javier Robledo Leiva\AppData\Local\Programs\Python\Python37\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2018/S2/M4/EX/v7/p2" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2018/S2/M4/EX/v7/p2/exm4p2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -449,19 +447,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.ex1m4v6" />
-      <item itemvalue="Python.ex1m4v6p1" />
       <item itemvalue="Python.ex1m4v6p2" />
       <item itemvalue="Python.p1-sol" />
       <item itemvalue="Python.p2-sol" />
+      <item itemvalue="Python.exm4p1" />
+      <item itemvalue="Python.exm4p2" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.exm4p2" />
+        <item itemvalue="Python.exm4p1" />
         <item itemvalue="Python.p2-sol" />
         <item itemvalue="Python.p1-sol" />
         <item itemvalue="Python.ex1m4v6p2" />
-        <item itemvalue="Python.ex1m4v6p1" />
-        <item itemvalue="Python.ex1m4v6" />
       </list>
     </recent_temporary>
   </component>
@@ -511,18 +509,25 @@
       <option name="project" value="LOCAL" />
       <updated>1538320867278</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="fotos">
+      <created>1539043517096</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1539043517096</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="882" y="69" width="941" height="947" extended-state="0" />
+    <frame x="623" y="61" width="941" height="947" extended-state="0" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.45743474" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.39614075" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49602723" weight="0.37223586" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49489218" visible="true" weight="0.37223586" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -530,13 +535,13 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50397277" side_tool="true" visible="true" weight="0.37223586" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5051078" side_tool="true" visible="true" weight="0.37223586" />
       <window_info anchor="bottom" id="Terminal" order="11" />
       <window_info anchor="bottom" id="Python Console" order="12" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info active="true" anchor="right" id="SciView" order="3" visible="true" weight="0.02383655" />
+      <window_info anchor="right" id="SciView" order="3" visible="true" weight="0.6027242" />
       <window_info anchor="right" id="Database" order="4" />
     </layout>
   </component>
@@ -551,7 +556,8 @@
     <MESSAGE value="examen modulo 4 v6 codigo" />
     <MESSAGE value="ex m4 v6 p1 y p2" />
     <MESSAGE value="l1v4p1" />
-    <option name="LAST_COMMIT_MESSAGE" value="l1v4p1" />
+    <MESSAGE value="fotos" />
+    <option name="LAST_COMMIT_MESSAGE" value="fotos" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/.gitignore">
@@ -569,20 +575,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="442">
           <caret line="26" column="13" selection-start-line="26" selection-start-column="13" selection-end-line="26" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/2018/S2/M4/EX/p2/ex1m4v6p2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="19" selection-start-column="19" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/2018/S2/M4/EX/p1/ex1m4v6p1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="31" selection-start-line="3" selection-start-column="31" selection-end-line="3" selection-end-column="31" />
         </state>
       </provider>
     </entry>
@@ -744,6 +736,47 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
           <caret line="2" column="16" selection-start-line="2" selection-start-column="16" selection-end-line="2" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2018/S2/M4/EX/p2/ex1m4v6p2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="17" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2018/S2/M4/EX/v7/p1/exm4p1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="23" column="16" selection-end-line="23" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2018/S2/M4/EX/p1/ex1m4v6p1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="3" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2018/S2/M4/EX/v7/p3/exm4p3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="31" selection-start-line="3" selection-start-column="31" selection-end-line="3" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2018/S2/M4/EX/v7/p2/g2.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2018/S2/M4/EX/v7/p2/exm4p2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="30" column="23" selection-start-line="30" selection-start-column="23" selection-end-line="30" selection-end-column="23" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
