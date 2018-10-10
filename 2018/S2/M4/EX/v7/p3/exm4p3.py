@@ -1,4 +1,4 @@
-def range_rec(n):
-    if n == 0:
+def range_rec(m,n):
+    if n <= m:
         return []
-    return range_rec(n-1)+[n-1]
+    return range_rec(m,n-1)+[n-1]

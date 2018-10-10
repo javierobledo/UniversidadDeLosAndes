@@ -12,9 +12,6 @@ def read_matrix(n,m):
         productos.append(producto)
     return productos,matriz
 
-def frecuencia_relativa(matriz):
-    return matriz/matriz.sum(axis=0)
-
 n = int(input())
 palabras = input().split()
 m = len(palabras)

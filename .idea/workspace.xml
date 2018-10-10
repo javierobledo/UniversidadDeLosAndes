@@ -2,12 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9ea09561-3b18-443d-ac04-f9f3fd6e7cd7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/2018/S2/M4/EX/v7/p1/exm4p1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2018/S2/M4/EX/v7/p2/exm4p2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2018/S2/M4/EX/v7/p3/exm4p3.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/UniversidadDeLosAndes.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/UniversidadDeLosAndes.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2018/S2/M4/EX/v7/p1/exm4p1.py" beforeDir="false" afterPath="$PROJECT_DIR$/2018/S2/M4/EX/v7/p1/exm4p1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2018/S2/M4/EX/v7/p2/exm4p2.py" beforeDir="false" afterPath="$PROJECT_DIR$/2018/S2/M4/EX/v7/p2/exm4p2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2018/S2/M4/EX/v7/p3/exm4p3.py" beforeDir="false" afterPath="$PROJECT_DIR$/2018/S2/M4/EX/v7/p3/exm4p3.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -19,10 +17,24 @@
     <SUITE FILE_PATH="coverage/UniversidadDeLosAndes$ex1m4v6.coverage" NAME="ex1m4v6 Coverage Results" MODIFIED="1537619481076" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2018/S2/M4/EX" />
     <SUITE FILE_PATH="coverage/UniversidadDeLosAndes$p1_sol.coverage" NAME="p1-sol Coverage Results" MODIFIED="1538320089488" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2018/S2/M4/L1/v4/p1" />
     <SUITE FILE_PATH="coverage/UniversidadDeLosAndes$p2_sol.coverage" NAME="p2-sol Coverage Results" MODIFIED="1538398844908" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2018/S2/M4/L1/v4/p2" />
-    <SUITE FILE_PATH="coverage/UniversidadDeLosAndes$exm4p2.coverage" NAME="exm4p2 Coverage Results" MODIFIED="1539118702463" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2018/S2/M4/EX/v7/p2" />
+    <SUITE FILE_PATH="coverage/UniversidadDeLosAndes$exm4p2.coverage" NAME="exm4p2 Coverage Results" MODIFIED="1539185366731" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2018/S2/M4/EX/v7/p2" />
     <SUITE FILE_PATH="coverage/UniversidadDeLosAndes$ex1m4v6p2.coverage" NAME="ex1m4v6p2 Coverage Results" MODIFIED="1537718305722" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2018/S2/M4/EX/p2" />
     <SUITE FILE_PATH="coverage/UniversidadDeLosAndes$exm4p1.coverage" NAME="exm4p1 Coverage Results" MODIFIED="1539116403332" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2018/S2/M4/EX/v7/p1" />
     <SUITE FILE_PATH="coverage/UniversidadDeLosAndes$ex1m4v6p1.coverage" NAME="ex1m4v6p1 Coverage Results" MODIFIED="1537619586768" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2018/S2/M4/EX/p1" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
   </component>
   <component name="FUSProjectUsageTrigger">
     <session id="-1136801874">
@@ -61,34 +73,35 @@
     <session id="1973476694">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="11" />
+          <entry key="project.closed" value="13" />
           <entry key="project.open.time.0" value="1" />
           <entry key="project.open.time.1" value="1" />
           <entry key="project.open.time.3" value="1" />
           <entry key="project.open.time.4" value="1" />
-          <entry key="project.open.time.5" value="1" />
+          <entry key="project.open.time.5" value="2" />
           <entry key="project.open.time.6" value="4" />
-          <entry key="project.open.time.7" value="3" />
+          <entry key="project.open.time.7" value="4" />
           <entry key="project.open.time.8" value="1" />
-          <entry key="project.opened" value="13" />
+          <entry key="project.opened" value="15" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="py" value="1273" />
-          <entry key="txt" value="88" />
+          <entry key="Python Console" value="135" />
+          <entry key="py" value="1289" />
+          <entry key="txt" value="107" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="PLAIN_TEXT" value="88" />
-          <entry key="Python" value="1273" />
+          <entry key="PLAIN_TEXT" value="107" />
+          <entry key="Python" value="1424" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="png" value="1" />
-          <entry key="py" value="14" />
+          <entry key="py" value="15" />
           <entry key="txt" value="40" />
         </counts>
       </usages-collector>
@@ -96,18 +109,18 @@
         <counts>
           <entry key="Image" value="1" />
           <entry key="PLAIN_TEXT" value="40" />
-          <entry key="Python" value="14" />
+          <entry key="Python" value="15" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/2018/S2/M4/EX/v7/p1/exm4p1.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="391">
-              <caret line="23" column="16" selection-end-line="23" selection-end-column="16" />
+            <state relative-caret-position="221">
+              <caret line="13" selection-start-line="13" selection-end-line="13" />
             </state>
           </provider>
         </entry>
@@ -115,11 +128,20 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/2018/S2/M4/EX/v7/p2/exm4p2.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="450">
-              <caret line="30" column="23" selection-start-line="30" selection-start-column="23" selection-end-line="30" selection-end-column="23" />
+            <state relative-caret-position="238">
+              <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
               <folding>
                 <element signature="e#0#19#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/2018/S2/M4/EX/v7/p3/exm4p3.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret selection-end-line="3" selection-end-column="33" />
             </state>
           </provider>
         </entry>
@@ -172,9 +194,9 @@
         <option value="$PROJECT_DIR$/2018/S2/M4/L1/v4/p2/output/output2.txt" />
         <option value="$PROJECT_DIR$/2018/S2/M4/L1/v4/p2/output/output3.txt" />
         <option value="$PROJECT_DIR$/2018/S2/M4/L1/v4/p2/output/output4.txt" />
+        <option value="$PROJECT_DIR$/2018/S2/M4/EX/v7/p3/exm4p3.py" />
         <option value="$PROJECT_DIR$/2018/S2/M4/EX/v7/p1/exm4p1.py" />
         <option value="$PROJECT_DIR$/2018/S2/M4/EX/v7/p2/exm4p2.py" />
-        <option value="$PROJECT_DIR$/2018/S2/M4/EX/v7/p3/exm4p3.py" />
       </list>
     </option>
   </component>
@@ -185,10 +207,9 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="623" />
-    <option name="y" value="61" />
-    <option name="width" value="941" />
-    <option name="height" value="947" />
+    <option name="x" value="953" />
+    <option name="width" value="974" />
+    <option name="height" value="1047" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
@@ -313,7 +334,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="add_unversioned_files" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/2018/S2/M4/EX/v7/p2" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/2018/S2/M4/EX/v7" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
@@ -516,18 +537,25 @@
       <option name="project" value="LOCAL" />
       <updated>1539043517096</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="examen perido 3 v7">
+      <created>1539120202580</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1539120202580</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="623" y="61" width="941" height="947" extended-state="0" />
+    <frame x="953" y="0" width="974" height="1047" extended-state="0" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.39614075" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.3916849" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49489218" visible="true" weight="0.37223586" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4936034" weight="0.3716143" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -535,14 +563,14 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5051078" side_tool="true" visible="true" weight="0.37223586" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50328225" side_tool="true" visible="true" weight="0.33260393" />
       <window_info anchor="bottom" id="Terminal" order="11" />
-      <window_info anchor="bottom" id="Python Console" order="12" />
+      <window_info anchor="bottom" id="Python Console" order="12" sideWeight="0.49671772" visible="true" weight="0.33260393" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="SciView" order="3" visible="true" weight="0.6027242" />
-      <window_info anchor="right" id="Database" order="4" />
+      <window_info anchor="right" id="SciView" order="3" visible="true" weight="0.5809628" />
+      <window_info anchor="right" id="Database" order="4" weight="0.3291714" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -557,7 +585,8 @@
     <MESSAGE value="ex m4 v6 p1 y p2" />
     <MESSAGE value="l1v4p1" />
     <MESSAGE value="fotos" />
-    <option name="LAST_COMMIT_MESSAGE" value="fotos" />
+    <MESSAGE value="examen perido 3 v7" />
+    <option name="LAST_COMMIT_MESSAGE" value="examen perido 3 v7" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/.gitignore">
@@ -746,13 +775,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/2018/S2/M4/EX/v7/p1/exm4p1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="23" column="16" selection-end-line="23" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/2018/S2/M4/EX/p1/ex1m4v6p1.py">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -760,20 +782,25 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/2018/S2/M4/EX/v7/p2/g2.png" />
     <entry file="file://$PROJECT_DIR$/2018/S2/M4/EX/v7/p3/exm4p3.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="31" selection-start-line="3" selection-start-column="31" selection-end-line="3" selection-end-column="31" />
+        <state>
+          <caret selection-end-line="3" selection-end-column="33" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/2018/S2/M4/EX/v7/p2/g2.png">
-      <provider selected="true" editor-type-id="images" />
+    <entry file="file://$PROJECT_DIR$/2018/S2/M4/EX/v7/p1/exm4p1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/2018/S2/M4/EX/v7/p2/exm4p2.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="450">
-          <caret line="30" column="23" selection-start-line="30" selection-start-column="23" selection-end-line="30" selection-end-column="23" />
+        <state relative-caret-position="238">
+          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
           <folding>
             <element signature="e#0#19#0" expanded="true" />
           </folding>

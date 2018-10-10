@@ -13,9 +13,6 @@ def read_matrix(n,m):
         productos.append(producto)
     return productos,matriz
 
-def frecuencia_relativa(matriz):
-    return matriz/matriz.sum(axis=0)
-
 n = int(input())
 palabras = input().split()
 m = len(palabras)
@@ -28,5 +25,4 @@ pyplot.show()
 pyplot.clf()
 for i in range(n):
     pyplot.plot(palabras, matriz[i,:])
-pyplot.legend(productos)
-pyplot.show()
+    pyplot.show()
