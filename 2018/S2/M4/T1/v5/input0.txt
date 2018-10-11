@@ -1,0 +1,6 @@
+juan:7 asistencia,4.3 examen,3 tarea,7 lab1,5 lab2
+maria:4 lab2,5.5 lab1,5 tarea,3 examen,4 asistencia
+pedro:7 examen,7 lab1
+ana:6.2 asistencia,4.1 tarea,5 examen
+andrea:3 lab1,7 examen,7 lab2,7 asistencia,7 tarea
+diego:4.2 asistencia
